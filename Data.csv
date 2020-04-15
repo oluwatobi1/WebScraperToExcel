@@ -1,0 +1,23 @@
+State,Cases,Active,Recovered,Deaths
+Lagos,214,139,69,6
+FCT,58,45,11,2
+Osun,20,9,11,–
+Edo,15,14,–,1
+Oyo,11,7,5,–
+Ogun,9,7,2,–
+Bauchi,6,6,–,–
+Kaduna,6,6,–,–
+Akwa Ibom,6,6,–,–
+Katsina,5,4,–,1
+Kwara,4,4,–,–
+Kano,4,4,–,–
+Delta,3,2,–,1
+Ondo,3,3,–,–
+Enugu,2,2,–,–
+Ekiti,2,1,1,–
+Rivers,2,1,1,–
+Benue,1,1,–,–
+Niger,1,1,–,–
+Anambra,1,1,–,–
+Total,373,263,99,11
+Note: Data as of 2020/04/14 23:00 WAT
